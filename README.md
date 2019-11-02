@@ -271,7 +271,7 @@ This Java compression project is based on Huffman lossless compression algorithm
 
 * **GUI**
 
-  This project uses Javafx framework to construct the GUI. The detailed instructions can be find in [User Manual](./User Manual.md). When user create a task, a new thread will be created and the number of runnning tasks and the information of the latest task will be displayed on the panel.
+  This project uses Javafx framework to construct the GUI. The detailed instructions can be find in [UserManual](./UserManual.md). When user create a task, a new thread will be created and the number of runnning tasks and the information of the latest task will be displayed on the panel.
 
 
 
