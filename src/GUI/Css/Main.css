@@ -1,0 +1,32 @@
+.myLabel {
+    -fx-alignment: center;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-background-color: transparent;
+    -fx-font-family: Monaco;
+    -fx-font-size: 15px;
+    -fx-text-fill: rgba(255, 255, 255, .8);
+    -fx-effect: dropshadow(gaussian, rgba(255, 255, 255, .2), .2, .2, 1, 1);
+    -fx-opacity: .8;
+}
+
+.header {
+    -fx-text-fill: rgba(255, 255, 255, 1);
+    -fx-font-size: 35px;
+}
+
+.signature {
+    -fx-text-fill: rgba(255, 255, 255, 1);
+    -fx-font-size: 15px;
+}
+
+.button {
+    -fx-font-size: 20px;
+}
+
+.button:hover {
+    -fx-background-color: rgba(255, 255, 255, .2);
+    -fx-text-fill: rgba(255, 255, 255, 1);
+    -fx-opacity: 1;
+    -fx-cursor: hand;
+}
